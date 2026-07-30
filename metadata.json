@@ -1,6 +1,0 @@
-{
-  "name": "AeroTutor AI",
-  "description": "Intelligent STEM & Aerospace AI Learning Platform featuring interactive textbooks, AI tutoring, adaptive practice, aerospace simulations, voice tutor, and progress analytics.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
